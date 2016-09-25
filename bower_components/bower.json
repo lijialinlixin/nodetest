@@ -1,0 +1,21 @@
+{
+  "name": "nodetest",
+  "description": "this is movice",
+  "main": "index.js",
+  "authors": [
+    "lijialin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "lijialin"
+  ],
+  "homepage": "https://github.com/lijialinlixin/nodetest",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
