@@ -1,0 +1,29 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is movice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijialinlixin/nodetest.git"
+  },
+  "keywords": [
+    "lijialin"
+  ],
+  "author": "lijialin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijialinlixin/nodetest/issues"
+  },
+  "homepage": "https://github.com/lijialinlixin/nodetest#readme"
+}
